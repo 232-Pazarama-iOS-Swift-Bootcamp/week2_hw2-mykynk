@@ -91,7 +91,6 @@ class ViewController: UIViewController {
         lastCalculate.text = ""
     }
     @IBAction func percentage(_ sender: Any) {
-        clearCurrent()
         
         addStringtoCalculate(text: "%")
     }

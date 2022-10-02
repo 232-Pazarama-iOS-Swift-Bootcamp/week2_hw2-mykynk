@@ -1,5 +1,10 @@
 
 # Pazarama iOS Bootcamp - Hafta 2 - Ödev  
+ ![Screenshot](ss1.png)
+ ![Screenshot](ss2.png)
+ ![Screenshot](ss3.png)
+ ![Screenshot](ss4.png)
+ 
  
 Bilimsel Hesap Makinesi  
 Eğitimlerde üstünde çalıştığımız hesap makinesinin geliştirmesinin tamamlanması ve basit
